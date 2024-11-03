@@ -1,6 +1,6 @@
 # Multi-Omics_Transcriptomics_LongReadSequencing
 
-This software was developed to perform "Comprehensive resolution and classification of the Epstein Barr virus transcriptome"
+This pipeline was developed by leveraging advanced Multiomics sequencing technologies, including RNA-seq, Oxford Nanopore Technologies (ONT) long-read sequencing, and Capillary Analysis of Gene Expression (CAGE-seq) sequencing to perform "Comprehensive resolution and classification of the Epstein Barr virus transcriptome". README files are included in each stage/folder of peak_caller, convert_CAGE, and ONT_Read_Validation for instructions on how to run them.
 
 # Citation
 
