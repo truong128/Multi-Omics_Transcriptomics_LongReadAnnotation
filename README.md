@@ -1,10 +1,14 @@
-# LongReadAnnotation 
+# Multi-Omics_Transcriptomics_LongReadSequencing
+
+This software was developed to perform "Comprehensive resolution and classification of the Epstein Barr virus transcriptome"
 
 # Citation
 
+Truong D Nguyen
+
 Erik K Flemington
 
-Truong D Nguyen
+Link to manuscript: https://www.researchsquare.com/article/rs-5079871/v1 (Under Revision at Nature Communications)
 
 # Requirements
 Perl 5
