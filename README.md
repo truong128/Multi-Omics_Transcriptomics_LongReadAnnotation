@@ -18,7 +18,7 @@ File::Basename
 
 # Installation
 ```
-git clone https://github.com/flemingtonlab/LongReadAnnotation.git
+git clone https://github.com/truong128/Multi-Omics_Transcriptomics_LongReadAnnotation.git
 ```
 
 # File formats
